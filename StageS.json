@@ -4,5 +4,14 @@
   "artist": "Harikawa Tomoya",
   "author": "Harikawa Tomoya",
   "cover": "https://uploads.mangadex.org/covers/b60fa5bf-c76a-480a-89b7-266b45b7068c/5e744bfb-22a6-4337-bad2-2b46d9637b04.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1651664006",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BjDkUUO"
+      }
+    }
+  }
 }
